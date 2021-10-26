@@ -1,6 +1,8 @@
 # AI-OpenMic
 
-Repository for code and dataset for our EMNLP 2021 paper - [“So You Think You’re Funny?”: Rating the Humour Quotient in Standup Comedy](https://arxiv.org/pdf/2110.12765.pdf).
+Code and Dataset repository for the EMNLP 2021 paper:
+
+[“So You Think You’re Funny?”: Rating the Humour Quotient in Standup Comedy](https://arxiv.org/pdf/2110.12765.pdf).
 
 * Paper: [Link](https://arxiv.org/abs/2110.12765)
 * Poster: [Link](http://dipteshkanojia.github.io/files/poster-emnlp-2021-funny.pdf)
@@ -9,7 +11,7 @@ Repository for code and dataset for our EMNLP 2021 paper - [“So You Think You�
 
 ## Dataset
 
-The dataset is available for [download via the follwing link](https://www.cfilt.iitb.ac.in/~diptesh/AI_open_mic_dataset.zip).
+The dataset is available for [download via the following link](https://www.cfilt.iitb.ac.in/~diptesh/AI_open_mic_dataset.zip).
 
 ## Code
 
