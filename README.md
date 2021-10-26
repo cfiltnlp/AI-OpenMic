@@ -10,3 +10,17 @@ The dataset is available for [download via the follwing link](https://www.cfilt.
 
 The code shall be made available very soon. Thank you for being patient.
 
+## Citing
+Please use the following citation while citing this work:
+
+```latex
+@misc{mittal2021so,
+      title={"So You Think You're Funny?": Rating the Humour Quotient in Standup Comedy}, 
+      author={Anirudh Mittal and Pranav Jeevan and Prerak Gandhi and Diptesh Kanojia and Pushpak Bhattacharyya},
+      year={2021},
+      eprint={2110.12765},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
