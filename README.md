@@ -15,7 +15,7 @@ The dataset is available for [download via the following link](https://www.cfilt
 
 ## Code
 
-The code shall be made available very soon. Thank you for being patient.
+The complete codebase shall be made available very soon. Thank you for being patient.
 
 ## Citing
 Please use the following citation while citing this work:
