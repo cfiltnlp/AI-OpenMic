@@ -7,7 +7,7 @@ Code and Dataset repository for the EMNLP 2021 paper:
 * Paper: [Link](http://dipteshkanojia.github.io/files/emnlp-2021-standup.pdf)
 * Poster: [Link](http://dipteshkanojia.github.io/files/poster-emnlp-2021-funny.pdf)
 * Slides: [Link](http://dipteshkanojia.github.io/files/ppt-emnlp-2021-funny.pdf)
-* Video: Link - Coming Soon!
+* Video: [Link](http://dipteshkanojia.github.io/files/video-emnlp-2021-standup.mp4)
 
 ## Dataset
 
