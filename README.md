@@ -2,7 +2,7 @@
 
 Code and Dataset repository for the EMNLP 2021 paper:
 
-[“So You Think You’re Funny?”: Rating the Humour Quotient in Standup Comedy](http://dipteshkanojia.github.io/publication/emnlp-2021-standup/).
+### [“So You Think You’re Funny?”: Rating the Humour Quotient in Standup Comedy](http://dipteshkanojia.github.io/publication/emnlp-2021-standup/).
 
 * Paper: [Link](http://dipteshkanojia.github.io/files/emnlp-2021-standup.pdf)
 * Poster: [Link](http://dipteshkanojia.github.io/files/poster-emnlp-2021-funny.pdf)
