@@ -2,6 +2,13 @@
 
 # AI-OpenMic
 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/AI-OpenMic?style=flat-square)](https://github.com/cfiltnlp/AI-OpenMic/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/AI-OpenMic?style=flat-square)](https://github.com/cfiltnlp/AI-OpenMic/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/AI-OpenMic?style=flat-square)](https://github.com/cfiltnlp/AI-OpenMic/stargazers)
+[![GitHub license](https://img.shields.io/github/license/cfiltnlp/AI-OpenMic?style=flat-square)](https://github.com/cfiltnlp/AI-OpenMic/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
+
 Code and Dataset repository for the EMNLP 2021 paper:
 
 ### [“So You Think You’re Funny?”: Rating the Humour Quotient in Standup Comedy](http://dipteshkanojia.github.io/publication/emnlp-2021-standup/).
